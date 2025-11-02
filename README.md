@@ -87,15 +87,14 @@ Mi objetivo es aportar valor a los equipos con **soluciones eficientes, escalabl
 
 ## 🔗 Enlaces
 
-🌐 [LinkedIn](https://www.linkedin.com) *(agregá el tuyo aquí)*  
-💼 [GitHub](https://github.com) *(agregá tu perfil si querés)*  
+💼 [GitHub](https://github.com) https://github.com/Nicolas193/Nicolas-Ignacio-Maciel
 📍 [Ubicación en Google Maps](https://www.google.com/maps?q=La+Matanza,+Buenos+Aires,+Argentina)
 
 ---
 
 ## 🖼️ Vista previa del portafolio
 
-![Portafolio Demo](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80)
+![Portafolio Demo](https://github.com/Nicolas193)
 
 ---
 
